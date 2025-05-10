@@ -10,3 +10,7 @@
 ## Resources
 
 * https://http.cat/
+
+## Notes
+
+* Ctrl + Shift + Ins to paste in git terminal
