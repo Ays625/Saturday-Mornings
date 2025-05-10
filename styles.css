@@ -1,8 +1,37 @@
 body {
-	background:magenta;
+	background:rgb(32, 45, 160);
 }
 
 header {
 	padding:2em;
 }
 
+main {
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	gap:2em;
+}
+
+main>div {
+	border:1px solid #ffffff;
+	padding:2em;
+	border-radius:5px;
+	color:white;
+}
+
+div.alex {
+	background-color:rgb(0, 110, 110);
+}
+
+div.mike {
+	background-color:rgb(112, 110, 0);
+}
+
+nav a { 
+	color:white; 
+}
+
+nav a:hover { 
+	color:rgb(1, 245, 253); 
+}
