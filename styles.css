@@ -52,3 +52,27 @@ nav a:hover {
   flex-wrap: wrap;
   gap: 20px;
 }
+
+.key {
+  border: 2px solid #fff;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: transform 0.1s ease;
+}
+
+.key.active {
+  transform: scale(1.1);
+  border-color: #ffc600;
+}
+
+.key:active, .key:focus {
+  outline: none;
+  transform: scale(0.95);
+}

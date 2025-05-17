@@ -10,6 +10,7 @@
 ## Resources
 
 * https://http.cat/
+* https://developer.mozilla.org/en-US/
 
 ## Notes
 
