@@ -11,6 +11,9 @@
 
 * https://http.cat/
 * https://developer.mozilla.org/en-US/
+* https://freesound.org
+* https://preshing.com/20110811/xkcd-password-generator/
+* https://hackr.io/blog/how-to-build-a-javascript-drum-kit#project-prerequisites
 
 ## Notes
 
