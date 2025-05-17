@@ -35,3 +35,20 @@ nav a {
 nav a:hover { 
 	color:rgb(1, 245, 253); 
 }
+
+#drum-wrapper {
+	font-family: 'Arial', sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+	background: linear-gradient(to right, #222, #555);
+	color: #fff;
+}
+
+#drum-kit {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
