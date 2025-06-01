@@ -5,7 +5,7 @@
 * First open the terminal by typing "terminal" in the search bar next to windows
 * Then in the terminal `cd C:\Users\ASudr\Coding\Initial` 
 * Now type `python -m http.server`
-* In a browser open http://:localhost:8000
+* In a browser open http://localhost:8000 (or 127.0.0.1:8000)
 
 ## Resources
 
