@@ -14,6 +14,7 @@
 * https://freesound.org
 * https://preshing.com/20110811/xkcd-password-generator/
 * https://hackr.io/blog/how-to-build-a-javascript-drum-kit#project-prerequisites
+* https://chromium.googlesource.com/devtools/devtools-frontend/+/main/docs/ecosystem/automatic_workspace_folders.md
 
 ## Notes
 
