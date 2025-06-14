@@ -7,7 +7,6 @@
   <title>Drum Kit</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
   <script src="scripts.js"></script>
-  <script src="drumkit.js"></script>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -22,12 +21,12 @@
   </header>
   <main id="drum-wrapper">
     <div id="drum-kit">
-      <div class="key" data-key="A"><span>A</span><audio id="A" src="audio/snare.wav" data-key="A"></audio></div>
-      <div class="key" data-key="S"><span>S</span><audio id="S" src="audio/hihat.wav" data-key="S"></audio></div>
-      <div class="key" data-key="D"><span>D</span><audio id="D" src="audio/kick.wav" data-key="D"></audio></div>
+      <div class="key" data-key="A"><span>A</span><audio src="audio/snare.wav" data-key="A"></audio></div>
+      <div class="key" data-key="S"><span>S</span><audio src="audio/hihat.wav" data-key="S"></audio></div>
+      <div class="key" data-key="D"><span>D</span><audio src="audio/kick.wav" data-key="D"></audio></div>
     </div>
   </main>
   <footer></footer>
 </body>
-
+<script src="drumkit.js"></script>
 </html>
