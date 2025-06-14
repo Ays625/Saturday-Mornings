@@ -2,7 +2,7 @@
 
 ## Run The Server 
 
-* First open the terminal by typing "terminal" in the search bar next to windows
+* First open the terminal by typing "terminal" in the search bar next to windows or open the terminal in VS Code
 * Then in the terminal `cd C:\Users\ASudr\Coding\Initial` 
 * Now type `python -m http.server`
 * In a browser open http://localhost:8000 (or 127.0.0.1:8000)
@@ -19,3 +19,4 @@
 ## Notes
 
 * Ctrl + Shift + Ins to paste in git terminal
+* Ctrl + C to stop current active process
