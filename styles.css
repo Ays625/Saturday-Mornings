@@ -76,3 +76,10 @@ nav a:hover {
   outline: none;
   transform: scale(0.95);
 }
+
+div.xyz {
+	color:#00CCCC;
+	height:50%;
+	text-align: center;
+	padding: 200px;
+}

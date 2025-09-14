@@ -22,6 +22,10 @@
 * Ctrl + C to stop current active process
 * wget http://example.com
 
+### Jekyll
+
+* To run locally `bundle exec jekyll serve`
+
 ### Windows Group Policy Issues
 
 #### Install gp Edit on Windows Home
